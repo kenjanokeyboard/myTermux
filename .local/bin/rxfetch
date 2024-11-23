@@ -106,13 +106,13 @@ function main() {
 main
 
 echo -e "\n"
-echo -e "Phone: ${model}"
-echo -e "OS: ${os}"
-echo -e "Kernel: ${kernel}"
-echo -e "Packages: ${packages}"
-echo -e "Shell: ${shell}"
-echo -e "Uptime: ${uptime}"
-echo -e "RAM: ${memory}"
-echo -e "Disk: ${storage}"
+echo "Phone: ${model}"
+echo "OS: ${os}"
+echo "Kernel: ${kernel}"
+echo "Packages: ${packages}"
+echo "Shell: ${shell}"
+echo "Uptime: ${uptime}"
+echo "RAM: ${memory}"
+echo "Disk: ${storage}"
 echo -e "\n"
 
