@@ -105,7 +105,7 @@ function main() {
 
 main
 
-echo -e "\n"
+echo -e "\n\n"
 echo "Phone: ${model}"
 echo "OS: ${os}"
 echo "Kernel: ${kernel}"
@@ -114,5 +114,5 @@ echo "Shell: ${shell}"
 echo "Uptime: ${uptime}"
 echo "RAM: ${memory}"
 echo "Disk: ${storage}"
-echo -e "\n"
+echo -e "\n\n"
 
